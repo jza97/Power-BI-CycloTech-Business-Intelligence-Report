@@ -28,8 +28,8 @@ Here are some visual examples from the report:
 
 ![Executive Dashboard](./report_snapshots/executive_dashboard.png)
 ![Sales Map](./report_snapshots/sales_map.png)
-![Sales Dashboard](./report_snapshots/product_detail_dashboard.png)
-![Customer Segmentation](./report_snapshots/customer_detail._dashboard.png)
+![Product Detail Dashboard](./report_snapshots/product_detail_dashboard.png)
+![Customer Detail Dashboard](./report_snapshots/customer_detail._dashboard.png)
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](./LICENSE) file for details.
