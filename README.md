@@ -26,9 +26,16 @@ The Adventure Works Cycles dataset simulates a manufacturing company's sales dat
 ## Screenshots
 Here are some visual examples from the report:
 
+Executive Dashboard:
 ![Executive Dashboard](./report_snapshots/executive_dashboard.png)
+
+Sales Map:
 ![Sales Map](./report_snapshots/sales_map.png)
+
+Product Detail Dashboard:
 ![Product Detail Dashboard](./report_snapshots/product_detail_dashboard.png)
+
+Customer Detail Dashboard:
 ![Customer Detail Dashboard](./report_snapshots/customer_detail._dashboard.png)
 
 ## License
