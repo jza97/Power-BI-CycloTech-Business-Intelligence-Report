@@ -19,15 +19,17 @@ The Adventure Works Cycles dataset simulates a manufacturing company's sales dat
 - `scripts/`: DAX measures and Power Query scripts used in the report.
 
 ## How to Use
-1. Download the `AdventureWorks_Report.pbix` file.
+1. Download the `CycloTech_business_report.pbix` file.
 2. Open it in [Power BI Desktop](https://powerbi.microsoft.com/desktop/).
 3. Review the dataset and explore the interactive dashboards.
 
 ## Screenshots
 Here are some visual examples from the report:
 
-![Sales Dashboard](./report_snapshots/sales_dashboard.png)
-![Customer Segmentation](./report_snapshots/customer_segmentation.png)
+![Executive Dashboard](./report_snapshots/executive_dashboard.png)
+![Sales Map](./report_snapshots/sales_map.png)
+![Sales Dashboard](./report_snapshots/product_detail_dashboard.png)
+![Customer Segmentation](./report_snapshots/customer_detail._dashboard.png)
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](./LICENSE) file for details.
